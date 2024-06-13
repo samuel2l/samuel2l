@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">Upcoming frontend and ML developer</h3>
 <img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&s”>
-- 🔭 I’m currently working on [Art generation using neural style transfer]](https://harishnarayanan.org/writing/artistic-style-transfer/)
+- 🔭 I’m currently working on [Art generation using neural style transfer](https://harishnarayanan.org/writing/artistic-style-transfer/)
 
 - 🌱 I’m currently learning **Blockchain, ML and flutter**
 
