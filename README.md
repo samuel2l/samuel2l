@@ -3,7 +3,7 @@
 <img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&s”>
 - 🔭 I’m currently working on, [Reddit Clone](https://github.com/samuel2l/Reddit)
 
-- 🌱 I’m currently learning **Blockchain, ML and flutter**
+- 🌱 I’m currently learning **DSA, ML and flutter**
 
 - 📫 How to reach me **sama29571@gmail.com**
 
