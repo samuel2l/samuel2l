@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Upcoming frontend and ML developer</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB9CYVlo4buD1ZWtX8JWwmqBBkcbm2pPnpw&s”>
-- 🔭 I’m currently working on, [Reddit Clone](https://github.com/samuel2l/Reddit)
+<h3 align="center">Upcoming frontend developer</h3>
+- 🔭 I’m currently working on a Django Social Media App
 
-- 🌱 I’m currently learning **DSA, ML and flutter**
+- 🌱 I’m currently learning **DSA and flutter**
 
 - 📫 How to reach me **sama29571@gmail.com**
 
