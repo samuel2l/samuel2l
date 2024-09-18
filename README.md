@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">Upcoming frontend developer</h3>
+
 - 🔭 I’m currently working on a Django Social Media App
 
 - 🌱 I’m currently learning **DSA and flutter**
