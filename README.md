@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-- 🔭 I’m currently working on a Django Social Media App
+- 🔭 I’m currently working on a Smart Glasses Project
 
-- 🌱 I’m currently learning **DSA and flutter**
+- 🌱 I’m currently learning **ML and DSA**
 
 - 📫 How to reach me **sama29571@gmail.com**
 
