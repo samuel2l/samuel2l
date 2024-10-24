@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-- 🔭 I’m currently working on a Smart Glasses Project
+- 🔭 I’m currently working on a Math Recognizer
 
-- 🌱 I’m currently learning **ML and DSA**
+- 🌱 I’m currently learning **ML**
 
 - 📫 How to reach me **sama29571@gmail.com**
 
