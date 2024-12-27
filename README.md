@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 
-- 🔭 I’m currently working on a Math Latex to audible text Algorithm
+- 🔭 I’m currently working on a Mathematical Recognizer
 
 - 🌱 I’m currently learning **ML**
 
@@ -61,4 +61,3 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuel2l&show_icons=true&locale=en&layout=compact" alt="samuel2l" /></p>
