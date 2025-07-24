@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 - Mobile developer
+
 - 🔭 I’m currently working on an [Instagram Clone](https://github.com/samuel2l/Instagram-Clone)
-- 🌱 I’m currently learning **ML**
+
+- 🌱 I’m currently learning **Flutter and DSA**
 
 - 📫 How to reach me **sama29571@gmail.com**
 
