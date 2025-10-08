@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-- Mobile developer
+<h1 align="center"> I'm Samuel</h1>
+
+- Mobile Developer
+
+- Backend Developer
 
 - 🔭 I’m currently working on an [Instagram Clone](https://github.com/samuel2l/Instagram-Clone)
 
