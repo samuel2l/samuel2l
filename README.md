@@ -1,4 +1,3 @@
-<h1 align="center"> I'm Samuel</h1>
 
 - Mobile Developer
 
