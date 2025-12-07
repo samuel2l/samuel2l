@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter and DSA**
 
-- 📫 How to reach me **sama29571@gmail.com**
+- 📫 How to reach me **adamssamuel9955@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
