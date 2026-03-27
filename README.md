@@ -76,9 +76,3 @@
 </a>
 </p>
 
-ASSEMBLYAI_API_KEY=1797908c1a914c17bafb10bc1ea5b303
-OPENAI_API_KEY=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
-ELEVENLABS_API_KEY=sk_5113d891f50440bb22d1dd296f4ab969f9a55804619058fa
-DATABASE_URL=postgresql://neondb_owner:npg_W6f0eHmPSTir@ep-delicate-firefly-ai0pyspl-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require
-API_URL=http://localhost:8000
-
