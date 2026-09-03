@@ -26,3 +26,8 @@
     <td><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a></td>
   </tr>
 </table>
+
+## Certifications
+<a href="https://www.credly.com/earner/earned/badge/6f233d83-f486-469b-a29f-8bde538ca500" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="120" alt="AWS Certified Cloud Practitioner"/>
+</a>
